@@ -41,7 +41,6 @@ The course is divided into the following sections:
 - Additional Project Ideas
 
 ### Resources
-FreeCodeCamp video tutorial on Algorithmic Trading in Python. https://www.youtube.com/watch?v=xfzGZB4HhEE
-Course materials from the Algorithmic Trading in Python course
+FreeCodeCamp video tutorial on Algorithmic Trading in Python. https://www.youtube.com/watch?v=xfzGZB4HhEE and course materials from the Algorithmic Trading in Python course
 
 This course is a great resource for anyone interested in algorithmic trading or looking to expand their Python skills. The tutorial videos are clear and easy to follow, and the code is well-organized and fully documented. Special thanks to FreeCodeCamp for providing this amazing resource for free!
